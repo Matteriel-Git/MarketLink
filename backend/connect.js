@@ -22,7 +22,6 @@ module.exports = {
   }
 }
 
-// Client Test
 //
 
 /*
