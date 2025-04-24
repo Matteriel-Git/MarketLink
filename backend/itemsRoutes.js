@@ -16,6 +16,12 @@ itemsRoutes.route('/items').get(async (req, res) => {
 });
 
 // - Retrieve one
+
+
+
 // - Create one
+
+
+
 // - Update one
 // - Delete one
