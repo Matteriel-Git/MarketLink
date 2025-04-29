@@ -5,6 +5,7 @@ const database = require('./connect');
 let itemsRoutes = express.Router();
 
 // - Retrieve all
+
 itemsRoutes.route('/items').get(async (req, res) => {
     let db = database.getDb();
     let data = await db.collection('items').find({}).toArray();
