@@ -22,8 +22,8 @@ module.exports = {
   }
 }
 
-/*  Dev notes:
-Add Back in later if needed
+/*  notes:
+***Add Back in later if needed***
 
 */
 
